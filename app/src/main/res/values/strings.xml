@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nike App</string>
+    <string name="go">Go</string>
+    <string name="search">Search</string>
+    <string name="thumbs_up">thumbs up</string>
+    <string name="thumbs_down">thumbs down</string>
+    <string name="empty_state_text">No results found.</string>
+    <string name="error_state_text">Error retrieving search results.</string>
+    <string name="sort_by_up_votes">Sort by Up Votes</string>
+    <string name="sort_by_down_votes">Sort by Down Votes</string>
+</resources>
